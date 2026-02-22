@@ -1,2 +1,3 @@
-instagram-private-api
 flask
+gunicorn
+instagram-private-api
